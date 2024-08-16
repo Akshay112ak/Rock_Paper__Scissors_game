@@ -1,0 +1,54 @@
+body
+{
+    background-image: url('D:/nodejsexample/html/images/background.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+} 
+.div1
+{
+    display: grid;
+    place-items: center;
+}
+.h31
+{
+    display: flex;
+    justify-content: center;
+}
+.div2
+{
+    display: flex;
+    justify-content: space-between;
+    width: 20vw;
+    margin-top: 5vh;
+}
+.div3
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30%;
+    height: 10%;
+    width: 40vw;
+    margin-top: 5vh;
+}
+.h41
+{
+    
+    margin-top: 5vh;
+}
+.reset
+{
+    margin-top: 5vh;
+}
+input[type="reset"]
+{
+   
+}
+.headh3
+{
+    display: flex;
+    justify-content: space-between;
+    width: 35vw; 
+    margin-left: 33%;
+    
+}
